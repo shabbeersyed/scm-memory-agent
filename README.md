@@ -88,15 +88,3 @@ Built and deployed a Supply Chain AI Agent using Google Cloud Vertex AI and Clou
 Shabbeer Basha Syed
 Master’s in Information Systems & Technology
 University of North Texas
-
-🔥 Next Step (IMPORTANT)
-
-Now do this:
-
-Create file:
-touch README.md
-Paste above content
-Push:
-git add README.md
-git commit -m "Added professional README"
-git push
